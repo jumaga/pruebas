@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-a�ado una linea en local
-=======
-añado en remoto
->>>>>>> 15ce6177b297612fdaf64296fe64f14443d58776
+aÃ±ado en remoto
+
